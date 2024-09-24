@@ -7,7 +7,7 @@ With this editor you will be able to keep track of your position on the
 maps and (only if you get really stuck) teleport to new locations.
 
 Before you start you should open up the eob1.xml file in the xml-map.
-Enter there the path of the Eye of the Beholder II game that you use.
+Enter there the path of the Eye of the Beholder I game that you use.
 At the moment I assume that that is "C:\Games\Eob1" but if that is not 
 correct then you should change it.
 
